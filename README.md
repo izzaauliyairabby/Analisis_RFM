@@ -13,7 +13,5 @@ pip install -r requirements.txt
 
 ```streamlit run dashboard/dashboard.py```
 
-Open Browser and go to http://localhost:8501
-
 ## Streamlit Dashboard Preview
 https://idcamp2023rfmanalysis.streamlit.app/
