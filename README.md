@@ -16,4 +16,4 @@ pip install -r requirements.txt
 Open Browser and go to http://localhost:8501
 
 ## Streamlit Dashboard Preview
-https://e-commerce.streamlit.app/
+https://idcamp2023rfmanalysis.streamlit.app/
