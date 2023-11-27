@@ -4,7 +4,9 @@
 Setup Environment
 1. Install Python 3.8.5
 2. Install Requirements
-'pip install -r requirements.txt'
+''''''''
+pip install -r requirements.txt
+'''''''
 
 ## Run Streamlit Dashboard
 ### Open Terminal
